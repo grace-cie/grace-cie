@@ -3,6 +3,8 @@
 <!--
 **grace-cie/grace-cie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![](https://github.com/grace-cie/grace-cie/blob/main/darkrai-pok%C3%A9mon-darkrai.gif)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
