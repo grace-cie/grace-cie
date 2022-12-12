@@ -1,5 +1,4 @@
-                                                                        ### Hi there 👋
-![](https://github.com/grace-cie/grace-cie/blob/main/pokemon.gif)
+![](https://github.com/grace-cie/grace-cie/blob/main/pokemon.gif) 🔭 I’m currently working on ...
 
 
 <!--
