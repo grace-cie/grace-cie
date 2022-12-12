@@ -1,9 +1,10 @@
+![](https://github.com/grace-cie/grace-cie/blob/main/pokemon.gif)
 ### Hi there 👋
 
 <!--
 **grace-cie/grace-cie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![](https://github.com/grace-cie/grace-cie/blob/main/pokemon.gif)
+
 
 Here are some ideas to get you started:
 
