@@ -20,7 +20,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-cie&layout=compact&theme=dracula" />
 
-<br><br><br><br><br><br><br><br><br>
+<!--<br><br><br><br><br><br><br><br><br>-->
 
 <samp><img src="https://img.icons8.com/color/2x/facebook.png" width="23">  find me on facebook [yamo.rey](https://www.facebook.com/yamo.rey) 💭
 
