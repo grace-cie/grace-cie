@@ -16,9 +16,9 @@
 
 ## :green_heart: 𝗦𝘁𝗮𝘁𝘀
 
-![github stats](https://github-readme-stats.vercel.app/api?username=grace-cie&show_icons=true&theme=dracula)
+![github stats](https://github-readme-stats.vercel.app/api?username=grace-cie&show_icons=true&theme=onedark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-cie&layout=compact&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-cie&layout=compact&theme=onedark" />
 
 <!--<br><br><br><br><br><br><br><br><br>-->
 
