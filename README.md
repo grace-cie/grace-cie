@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://github.com/grace-cie/grace-cie/blob/main/pickachushiny.gif"></a> Wᴇʟᴄᴏᴍᴇ<br><samp>
+<img align="left" width="280" src="https://github.com/grace-cie/grace-cie/blob/main/pickachushiny.gif"></a> Wᴇʟᴄᴏᴍᴇ<br><samp>
   👩🏼‍💻 i work on [rygel.biz](https://rygel.biz) <br> 
   🌱 I’m currently learning ...  <br>
   🔭 I’m currently working on myself <br>
