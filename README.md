@@ -12,7 +12,7 @@
 ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) <br>
 ![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1)
 ![](https://img.shields.io/badge/-Php-white?style=flat-square&logo=Php&logoColor=white&color=fff&labelColor=4479A1) <br>
-<br><br><br><br><br><br>
+<br><br><br>
 
 ## :green_heart: 𝗦𝘁𝗮𝘁𝘀
 
@@ -20,7 +20,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-cie&layout=compact&theme=dracula" />
 
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 <samp><img src="https://img.icons8.com/color/2x/facebook.png" width="23">  find me on facebook [yamo.rey](https://www.facebook.com/yamo.rey) 💭
 
