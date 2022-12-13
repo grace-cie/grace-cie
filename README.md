@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-cie&layout=compact&theme=onedark" />
 
 <!--<br><br><br><br><br><br><br><br><br>-->
-[![Profile Viewer](https://komarev.com/ghpvc/?username=grace-cie&style=for-the-badge&color=orange)](https://github.com/antonkomarev/github-profile-views-counter)
+
 <samp><img src="https://img.icons8.com/color/2x/facebook.png" width="23">  find me on facebook [yamo.rey](https://www.facebook.com/yamo.rey) 💭
 
 
