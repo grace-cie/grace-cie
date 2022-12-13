@@ -13,7 +13,6 @@
 ![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1)
 ![](https://img.shields.io/badge/-Php-white?style=flat-square&logo=Php&logoColor=white&color=fff&labelColor=4479A1) <br>
 <br>
-<img align="center" src="https://raw.githubusercontent.com/grace-cie/grace-cie/snake/github-snake.svg">
 ## :green_heart: 𝗦𝘁𝗮𝘁𝘀
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=grace-cie&show_icons=true&theme=onedark)
