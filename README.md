@@ -8,7 +8,7 @@
 <br><br><br><br><br><br><br><br><br><br>
 ##### GitHub status
 
-![](https://github-readme-activity-graph.cyclic.app/graph?username=wangrongding&theme=github)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=grace-cie&theme=github)
 <samp><img src="https://img.icons8.com/color/2x/facebook.png" width="23">  find me on facebook [yamo.rey](https://www.facebook.com/yamo.rey) 💭
 
 
