@@ -11,7 +11,7 @@
 ![](https://img.shields.io/badge/-React-29beb0?style=flat-square&logo=React&labelColor=ffffff&color=61DAFB)
 ![](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white) <br>
 ![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1)
-![](https://img.shields.io/badge/-Php-white?style=flat-square&logo=Php&logoColor=4479A1&color=fff&labelColor=white) <br>
+![](https://img.shields.io/badge/-Php-4479A1?style=flat-square&logo=Php&logoColor=white&color=fff&labelColor=4479A1) <br>
 <br>
 ## :yellow_heart: 𝗦𝘁𝗮𝘁𝘀
 
