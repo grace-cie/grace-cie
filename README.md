@@ -13,15 +13,15 @@
 ![](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL&logoColor=white&color=fff&labelColor=4479A1)
 ![](https://img.shields.io/badge/-Php-4479A1?style=flat-square&logo=Php&logoColor=white&color=fff&labelColor=4479A1) <br>
 <br> -->
-## :yellow_heart: 𝗦𝘁𝗮𝘁𝘀
+<!-- ## :yellow_heart: 𝗦𝘁𝗮𝘁𝘀
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=grace-cie&show_icons=true&theme=onedark)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-cie&layout=compact&theme=onedark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grace-cie&layout=compact&theme=onedark" /> -->
 
 <!--<br><br><br><br><br><br><br><br><br>-->
 
-<samp><img src="https://img.icons8.com/color/2x/facebook.png" width="23">  find me on facebook [yamo.rey](https://www.facebook.com/yamo.rey) 💭
+<!-- <samp><img src="https://img.icons8.com/color/2x/facebook.png" width="23">  find me on facebook [yamo.rey](https://www.facebook.com/yamo.rey) 💭 -->
 
 
 <!--
